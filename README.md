@@ -28,7 +28,7 @@ $ ls
 
 > `Setup IP Address`
 ```
-$ sudo ifconfig (cardName) ip address
+$ sudo ifconfig (cardName) ipAddress
 $ sudo ifconfig (cardName) netmask netmaskAddress
 $ sudo ifconfig (cardName) broadcast broadcastAddress
 ```
