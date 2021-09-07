@@ -67,7 +67,7 @@ $ ls
 ##
 
 ### Follow @Cyberi53
-<a href="https://github.com/Cyberi53"><img align="left" title="Github" alt="Github" width="30px" src=".assets/github.png" /></a>
-<a href="https://facebook.com/Cyberi53"><img align="left" title="Facebook" alt="Facebook" width="30px" src=".assets/facebook.png" /></a>
-<a href="https://t.me/Cyber_i53"><img align="left" title="Telegram" alt="Telegram" width="30px" src=".assets/telegram.png" /></a>
-<a href="https://m.youtube.com/channel/UCoAUatLl3PQB-buaTMn8YJw"><img align="left" title="YouTube" alt="YouTube" width="30px" src=".assets/YouTube.png" /></a>
+<a href="https://github.com/Cyberi53"><img align="left" title="Github" alt="Github" width="30px" src="https://raw.githubusercontent.com/aladaBhai/assets/main/Photography/assets/GitHub/github_assets_v0001.png" /></a>
+<a href="https://facebook.com/Cyberi53"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://github.com/aladaBhai/assets/raw/main/Photography/assets/Facebook/facebook_assets_v0001.png" /></a>
+<a href="https://t.me/Cyber_i53"><img align="left" title="Telegram" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/aladaBhai/assets/main/Photography/assets/Telegram/telegram_assets_v0001.png" /></a>
+<a href="https://m.youtube.com/channel/UCoAUatLl3PQB-buaTMn8YJw"><img align="left" title="YouTube" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/aladaBhai/assets/main/Photography/assets/YouTube/youtube_assets_v0001.png" /></a>
