@@ -14,6 +14,19 @@
 - Linux
 - Tools
 
+##
+
+### Kali Linux all Commands
+
+> `Setup IP Address`
+```
+$ sudo ifconfig (cardName) ip address
+$ sudo ifconfig (cardName) netmask netmaskAddress
+$ sudo ifconfig (cardName) broadcast broadcastAddress
+```
+
+##
+
 ### Installation
 ```
 $ apt install git
