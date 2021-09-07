@@ -14,6 +14,14 @@
 - Linux
 - Tools
 
+### Installation
+```
+$ apt install git
+$ git clone https://github.com/Cyberi53/kaliLinux
+$ cd kaliLinux
+$ ls
+```
+
 ##
 
 ### Kali Linux all Commands
@@ -26,17 +34,6 @@ $ sudo ifconfig (cardName) broadcast broadcastAddress
 ```
 
 ##
-
-### Installation
-```
-$ apt install git
-$ git clone https://github.com/Cyberi53/kaliLinux
-$ cd kaliLinux
-$ ls
-```
-
-
-
 
 ### Supported Platform
 **`kaliLinux`**
@@ -53,7 +50,7 @@ $ ls
 ##
 
 ### Disclaimer :
-<p>This Python tool are completely free! Not intended for sale. Thanks!!</p>
+<p>This tool are completely free! Thanks!!</p>
 
 ##
 
