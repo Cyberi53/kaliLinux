@@ -26,6 +26,13 @@ $ ls
 
 ### Kali Linux all Commands
 
+> `Kali Update`
+```
+$ sudo apt update
+$ sudo apt upgrade
+$ sudo apt update -y && sudo apt upgrade -y && sudo apt full-upgrade -y
+```
+
 > `Setup IP Address`
 ```
 $ sudo ifconfig (cardName) ipAddress
